@@ -76,7 +76,6 @@
     background-color: #000000;
     color: #ffffff;
 }
-
 .btn-box__btn_bg-expert {
     background-color: #000000;
     color: #ffffff;
@@ -110,7 +109,6 @@
 .mobile-menu__btn::after {
     top: 10px;
 }
-
 
 /*===============================*/
 
